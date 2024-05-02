@@ -1,7 +1,9 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*": ["./*"]
+      "@/*": [
+        "./*"
+      ] // for construct a alias of root project path
     }
   }
 }
